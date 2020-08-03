@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-sudoku-solver/static/css/main.5267074f.chunk.css",
+    "main.js": "/react-sudoku-solver/static/js/main.346b6a92.chunk.js",
+    "main.js.map": "/react-sudoku-solver/static/js/main.346b6a92.chunk.js.map",
+    "runtime-main.js": "/react-sudoku-solver/static/js/runtime-main.b7e6ed08.js",
+    "runtime-main.js.map": "/react-sudoku-solver/static/js/runtime-main.b7e6ed08.js.map",
+    "static/js/2.2c1b458c.chunk.js": "/react-sudoku-solver/static/js/2.2c1b458c.chunk.js",
+    "static/js/2.2c1b458c.chunk.js.map": "/react-sudoku-solver/static/js/2.2c1b458c.chunk.js.map",
+    "index.html": "/react-sudoku-solver/index.html",
+    "precache-manifest.f17b9af4a523e4a8d89ff802031a9b29.js": "/react-sudoku-solver/precache-manifest.f17b9af4a523e4a8d89ff802031a9b29.js",
+    "service-worker.js": "/react-sudoku-solver/service-worker.js",
+    "static/css/main.5267074f.chunk.css.map": "/react-sudoku-solver/static/css/main.5267074f.chunk.css.map",
+    "static/js/2.2c1b458c.chunk.js.LICENSE.txt": "/react-sudoku-solver/static/js/2.2c1b458c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7e6ed08.js",
+    "static/js/2.2c1b458c.chunk.js",
+    "static/css/main.5267074f.chunk.css",
+    "static/js/main.346b6a92.chunk.js"
+  ]
+}
