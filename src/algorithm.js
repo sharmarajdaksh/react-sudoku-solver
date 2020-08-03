@@ -1,6 +1,6 @@
 const allowedDigits = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
-const getPresetCells = (grid) => {
+export const getPresetCells = (grid) => {
   let presetCells = [];
 
   for (let i = 0; i < 9; i++) {
@@ -29,7 +29,7 @@ const isSolved = (grid) => {
 const sleep = (ms) => {
   return new Promise((resolve) => setTimeout(resolve, ms));
 };
-const generateCompleteSolution = async (
+export const generateCompleteSolution = async (
   grid,
   presetCells = [],
   callback,
@@ -136,8 +136,3 @@ const findEmptySquares = (grid) => {
 };
 
 const path = [];
-
-module.exports = {
-  getPresetCells,
-  generateCompleteSolution,
-};

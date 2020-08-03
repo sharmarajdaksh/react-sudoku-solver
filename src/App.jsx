@@ -138,7 +138,7 @@ class App extends React.Component {
           If you value your time, you should probably input a valid
           configuration to start. Otherwise, you can trigger solving even with
           an invalid starting grid. Maybe you'll find it enjoyable to watch an
-          algorithm fail despite trying all that it could, just sometimes
+          algorithm fail despite trying all that it could, like sometimes
           happens with us in our lives :'(
         </p>
         {this.renderSudoku()}
